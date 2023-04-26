@@ -170,6 +170,7 @@ button{
   width: 224px;
 }
 
-.task-list__item_edit .task-list__label {
+.task-list__item_edit
+.task-list__label {
   display: none;
 }
