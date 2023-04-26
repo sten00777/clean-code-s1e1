@@ -154,7 +154,7 @@ button{
 
 /* Completed */
 .task-list_complete
-.task-list__label{
+.task-list__label {
   text-decoration: line-through;
   color: #888;
 }
@@ -170,6 +170,7 @@ button{
   width: 224px;
 }
 
-.task-list__item_edit .task-list__label {
+.task-list__item_edit
+.task-list__label {
   display: none;
 }
